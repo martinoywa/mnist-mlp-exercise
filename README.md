@@ -19,3 +19,6 @@ Test Accuracy of     9: 96% (973/1009) <br />
 
 # overall accuracy
 Test Accuracy (Overall): 97% (9730/10000)
+
+# sample predictions
+![sample predictions](image/predictions.png)
